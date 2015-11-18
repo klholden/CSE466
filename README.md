@@ -1,2 +1,1 @@
-# EE466
-Readme
+Midterm Project for UW CSE EE466. We were told to create something using what we had learned so I created an eyetest game group of sorts that could run tests for reaction time, color blindness, and color contrast.
